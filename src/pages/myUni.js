@@ -3,7 +3,7 @@ import NavbarMain from '../components/NavbarMain';
 import Sidebar from '../components/Sidebar';
 import Footer from '../components/Footer';
 
-function MainPage() {
+function MyUni() {
   const [isOpen, setIsOpen]  = useState(false);
 
   const toggle = () => {
@@ -18,4 +18,4 @@ function MainPage() {
   )
 }
 
-export default MainPage;
+export default MyUni;

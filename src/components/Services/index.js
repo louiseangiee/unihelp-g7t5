@@ -19,21 +19,21 @@ const Services = () => {
       <ServicesWrapper>
         <ServicesCard>
           <ServicesIcon src={Icon1} />
-          <ServicesH2>Service 1</ServicesH2>
+          <ServicesH2>Overview</ServicesH2>
           <ServicesP>
             Description Bla Bla Bla
           </ServicesP>
         </ServicesCard>
         <ServicesCard>
           <ServicesIcon src={Icon2} />
-          <ServicesH2>Service 2</ServicesH2>
+          <ServicesH2>MyUni</ServicesH2>
           <ServicesP>
             Description Bla Bla Bla
           </ServicesP>
         </ServicesCard>
         <ServicesCard>
           <ServicesIcon src={Icon3} />
-          <ServicesH2>Service 3</ServicesH2>
+          <ServicesH2>Forum</ServicesH2>
           <ServicesP>
             Description Bla Bla Bla
           </ServicesP>
