@@ -19,7 +19,7 @@ const SignIn = () => {
         <FormWrap>
           <Icon to='/'>UniHelp</Icon>
           <FormContent>
-            <Form action='#'>
+            <Form action='/main-page'>
               <FormH1>Sign in to your account</FormH1>
               <FormLabel htmlFor='for'>Email</FormLabel>
               <FormInput type='email' required />
